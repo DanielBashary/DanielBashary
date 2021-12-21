@@ -8,8 +8,6 @@ I am seeking a new Software Engineer opportunity where I can use my skills to ma
 ⭐I’m a quick learner, picking up new tools on the go. I am persistent and never give up when presented with a new challenge.
 ⭐Hard-working is an understatement. I will crank out tasks until the job is done perfectly.
 
-Feel free to take a look at my projects on my Github. I am always open to new connections, and can be reached by phone at +972 (053) 754-3035 or by email at daniel.bashary@gmail.com.
-
 <!---
 DanielBashary/DanielBashary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
